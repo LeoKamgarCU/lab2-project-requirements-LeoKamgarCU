@@ -1,7 +1,6 @@
 # lab2-project-requirements-LeoKamgarCU
 
-### Recitation Number: 012
-### Team Number: 6
+### Group Number: Recitation-012-Team-6
 
 ### Names: Github Usernames
 <ul>
