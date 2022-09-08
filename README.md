@@ -8,8 +8,14 @@
 <li>Maxwell Cheng — mach7839coloradoedu</li>
 <li>Luke Fitzpatrick — fitzpatrickluke</li>
 <li>Leo Kamgar — LeoKamgarCU</li>
+<li>Kalli Davidson — kallidavidson</li>
 </ul>
+
 
 Project Team Members: 
 <br>
 Leo Kamgar
+
+This is just a vim edit by LeoKamgarCU
+
+
