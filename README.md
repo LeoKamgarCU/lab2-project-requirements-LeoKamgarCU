@@ -8,4 +8,6 @@
 <li>Maxwell Cheng — mach7839coloradoedu</li>
 <li>Luke Fitzpatrick — fitzpatrickluke</li>
 <li>Leo Kamgar — LeoKamgarCU</li>
+<li>Project Team Members:
+<li>Luke Fitzpatrick
 </ul>
