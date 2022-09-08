@@ -20,7 +20,12 @@ Project Team Members:
 Maxwell Chang
 <br>
 Chengming Li
-
+<br>
+Leo Kamgar
+<br>
+Kalli Davidson
+<br>
+Luke Fitzpatrick
 
 Edited for demo
 
