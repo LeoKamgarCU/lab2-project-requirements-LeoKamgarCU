@@ -19,7 +19,17 @@ Project Team Members:
 <br>
 Maxwell Chang
 
+
+Project Team Members: 
+<br>
+Leo Kamgar
+
 This is just a vim edit by LeoKamgarCU
+
+
+
+Edited for demo
 
 Leo's edit on Luke's for demo
 This is a lab project to help learn git and branching
+
