@@ -24,8 +24,14 @@ Project Team Members:
 <br>
 Leo Kamgar
 
+Project Team Members:
+Kalli Davidson
 This is just a vim edit by LeoKamgarCU
 
+kallidavidson
+
+
+Edited for demo
 
 
 Edited for demo
