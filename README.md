@@ -27,7 +27,7 @@ Kalli Davidson
 <br>
 Luke Fitzpatrick
 
-Edited for demo
+
 
 
 Project Team Members: 
