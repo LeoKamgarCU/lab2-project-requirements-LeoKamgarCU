@@ -11,5 +11,10 @@
 <li>Kalli Davidson — kallidavidson</li>
 </ul>
 
+<<<<<<< HEAD
 Project Team Members:
 Kalli Davidson
+=======
+This is just a vim edit by LeoKamgarCU
+
+>>>>>>> main
