@@ -8,7 +8,12 @@
 <li>Maxwell Cheng — mach7839coloradoedu</li>
 <li>Luke Fitzpatrick — fitzpatrickluke</li>
 <li>Leo Kamgar — LeoKamgarCU</li>
+
+<li>Project Team Members:
+<li>Luke Fitzpatrick
+
 <li>Kalli Davidson — kallidavidson</li>
+
 </ul>
 Project Team Members: 
 <br>
@@ -16,4 +21,5 @@ Maxwell Chang
 
 This is just a vim edit by LeoKamgarCU
 
+Leo's edit on Luke's for demo
 This is a lab project to help learn git and branching
