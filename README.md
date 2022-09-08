@@ -16,3 +16,4 @@ Maxwell Chang
 
 This is just a vim edit by LeoKamgarCU
 
+This is a lab project to help learn git and branching
