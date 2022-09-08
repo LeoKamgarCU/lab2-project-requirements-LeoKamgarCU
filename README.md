@@ -9,3 +9,6 @@
 <li>Luke Fitzpatrick — fitzpatrickluke</li>
 <li>Leo Kamgar — LeoKamgarCU</li>
 </ul>
+Project Team Members: 
+<br>
+Maxwell Chang
