@@ -18,15 +18,12 @@
 Project Team Members: 
 <br>
 Maxwell Chang
-
-Chengming_branch
-Project Team Members:
 <br>
 Chengming Li
 
 
 Edited for demo
-=======
+
 
 Project Team Members: 
 <br>
