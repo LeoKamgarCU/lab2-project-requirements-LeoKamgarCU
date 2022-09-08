@@ -10,3 +10,6 @@
 <li>Leo Kamgar — LeoKamgarCU</li>
 <li>Kalli Davidson — kallidavidson</li>
 </ul>
+
+Project Team Members:
+Kalli Davidson
